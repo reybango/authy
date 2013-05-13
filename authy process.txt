@@ -1,0 +1,16 @@
+Registration process for new two-factor user:
+
+Add user to Authy via country & phone form. Need to send email, country & phone #. This sends back an Authy ID.
+Present token form requesting their token. Token comes to user via SMS or the Authy app and user enters it. 
+When they enter this token (derived via SMS or the app), you need to send that value + the Authy ID to Authy.
+Get the response from Authy which will tell you if the verification was succesful.
+If it's verfiied, then enable two factor next time and store the Authy ID in the database.
+
+
+Login process for a user with two-factor (assume user already has two-factor auth setup):
+
+Present a login form and let them login. Validate their username/pwd combo and grab their Authy ID from their database record.
+Present form requesting their token. Token comes to user via SMS or the Authy app and user enters it. 
+When they enter this token (derived via SMS or the app), you need to send that value + the Authy ID to Authy.
+Get the response from Authy which will tell you if the verification was succesful.
+If it's verfiied, allow the user to login normally.

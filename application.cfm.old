@@ -1,0 +1,11 @@
+<!--- initialize the application tag  --->
+<cfAPPLICATION name="twoauth" sessionmanagement="Yes" setclientcookies="Yes" sessiontimeout="#createtimespan(0,1,0,0)#" scriptProtect="all">
+
+<!--- set "this page" variable --->
+<cfset VARIABLES.thispage = GetFileFromPath(GetTemplatePath())>
+
+<cfsetting enablecfoutputonly="No" showdebugoutput="Yes">
+<cfset application.authyAPIKey = "b92234d78a8bdb88524dc824d0346882">
+<cfset application.authyNewUser = "https://api.authy.com/protected/json/users/new">
+<cfset application.authySMS = "https://api.authy.com/protected/json/sms/">
+

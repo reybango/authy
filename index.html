@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <title>Nettuts 2-auth Tut</title>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+
+	<form method="post" class="add-user-form" mixpanel_event="[TUTORIAL] Submitted Create User Form (go to step #3)" action="/applications/1513/users" accept-charset="UTF-8">
+		<input value="08d9b10ff7e59623ae8477d1d980158b8750eea84fb75eac5b0afc86090c83bb" name="authenticity_token" type="hidden">
+		<input name="_csrf_token" value="fb97ed0656f8219db72e05bbbbd08d37c28edc17a01f927e351a94f8dc078fe4" type="hidden">
+		<h2>Enable Two-Factor Authentication</h2>
+		
+		<input value="reybango@gmail.com" name="email" type="hidden">
+		
+		<label for="country_code">Your country</label>
+		<input autocomplete="off" class="countries-input" id="countries-input-1" type="text"><input style="display:none" class="authy-countries" type="text">
+		<div class="error-message"></div>
+		<label for="cellphone">Your cellphone</label>
+		<input id="authy-cellphone" name="cellphone" type="text">
+		<div class="error-message"></div>
+		<div class="submit-section">
+			<input value="Enable" type="submit">
+		</div>
+		<input name="country_code" id="country-code-1" type="hidden">
+	</form>
+
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="js/form.authy.js"></script>
+        <script src="js/main.js"></script>        
+    </body>
+</html>

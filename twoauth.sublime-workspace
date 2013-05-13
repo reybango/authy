@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cfd",
+				"cfdump	Tag (cmfl)"
+			],
+			[
+				"a",
+				"addtoken=\"true\"	addtoken"
+			],
+			[
+				"con",
+				"controllerFor"
+			],
+			[
+				"tab",
+				"tabItems"
+			],
+			[
+				"m",
+				"model"
+			],
+			[
+				"control",
+				"controllerFor"
+			],
+			[
+				"ta",
+				"tabItems"
+			],
+			[
+				"table",
+				"table_id"
+			],
+			[
+				"link",
+				"linkTo"
+			],
+			[
+				"c",
+				"class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "twofactor.cfm",
+			"settings":
+			{
+				"buffer_size": 2088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gettoken.cfm",
+			"settings":
+			{
+				"buffer_size": 2108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sendsms.cfm",
+			"settings":
+			{
+				"buffer_size": 468,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ajaxystuff.js",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/reybango/.ssh/github_rsa.pub",
+		"/Z/twoauth/login.cfm",
+		"/Z/twoauth/application.cfc",
+		"/Z/twoauth/success.cfm",
+		"/Z/twoauth/sendsms.cfm",
+		"/Z/twoauth/css/main.css",
+		"/Z/twoauth/js/main.js",
+		"/Z/twoauth/application.cfm",
+		"/Z/twoauth/authy process.txt",
+		"/C/Users/reybango/Downloads/Web Development/BlogCFC/Application.cfm",
+		"/Z/GFP/Code/2011-11-27/reps/reps.cfm",
+		"/Z/twoauth/index.html",
+		"/Z/twoauth/twof-enable.cfm",
+		"/Z/twoauth/js/plugins.js",
+		"/C/Users/reybango/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/reybango/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/reybango/Downloads/Microsoft/PerfTrace/PerfTraceWatson_X64/PerfTrace.log",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Users/reybango/Development/IRCCloud/main.css",
+		"/C/Users/reybango/.ssh/id_rsa.pub",
+		"/C/Users/reybango/Downloads/Hold/10tips/index.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Interview with Addy Osmani/Interview with Addy Osmani v2.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Interview with Addy Osmani/Interview with Addy Osmani.md",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Getting into Ember.js Part 4/Getting into Ember Part 4.md",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Getting into Ember.js Part 4/Getting into Ember Part 4.html",
+		"/C/Users/reybango/Development/Foursquare/visual.js",
+		"/C/Users/reybango/Downloads/Hold/notepadplusplus.install.6.3.2.nupkg",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Interview with Christian Heilmann/Interview with Christian Heilmann.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Interview with Christian Heilmann/Interview with Christian Heilmann.md",
+		"/C/Users/reybango/Documents/Hold/fb-spam.txt",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/IRC/IRC for the Rest of Us.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/IRC/IRC for the Rest of Us.md",
+		"/C/Users/reybango/Development/Testbed/remy.html",
+		"/C/Users/reybango/Development/Testbed/index.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Getting into Ember.js Part 3/Getting into Ember.js Part 3.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Getting into Ember.js Part 2/Getting into Ember.js Part 2.html",
+		"/C/Users/reybango/Downloads/Development Hold/Ember Course/index.html",
+		"/C/Users/reybango/Downloads/Development Hold/Ember Course/css/style.css",
+		"/C/Users/reybango/Downloads/Development Hold/Ember Course/js/app.js",
+		"/C/Users/reybango/Dropbox/Nettuts/Articles/Getting into Ember.js Part 3/Getting into Ember.js Part 3.md",
+		"/C/Users/reybango/Development/Ember Course/css/style.css",
+		"/C/Users/reybango/Development/Ember Course/README.md",
+		"/C/Users/reybango/Development/Ember Course/.gitignore",
+		"/C/Users/reybango/.gitignore_global",
+		"/C/Users/reybango/.ssh/github_rsa",
+		"/C/Users/reybango/Development/Ember Starter Kit/index.html",
+		"/C/Users/reybango/Development/Ember Course/css/normalize.css",
+		"/C/Users/reybango/Development/Ember Course/index.html",
+		"/C/Users/reybango/Development/Ember Course/starter-kit-master/index.html",
+		"/C/Users/reybango/Development/emberlearning/js/app.js",
+		"/C/Users/reybango/Development/emberlearning/index.html",
+		"/C/Users/reybango/Development/Ember Starter Kit/Hold/index.html",
+		"/C/Users/reybango/Development/emberlearning/js/libs/ember-data.js",
+		"/C/Users/reybango/Development/Ember Starter Kit/TODO.txt",
+		"/C/Users/reybango/Development/Ember Starter Kit/js/app.js",
+		"/C/Users/reybango/Dropbox/Nettuts/Getting into Ember.js Part 2/Getting into Ember.js Part 2.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Getting into Ember.js Part 2/Getting into Ember.js Part 2.md",
+		"/C/Users/reybango/Dropbox/Nettuts/Interview with John Resig/John Resig.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Interview with John Resig/John Resig.md",
+		"/C/Users/reybango/Dropbox/Nettuts/Getting into Ember.js Part 1/Getting into Ember.js - Part 1.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Getting into Ember.js Part 1/Getting into Ember.js - Part 1.md",
+		"/C/Users/reybango/Development/Chrome Tracker/chrome-tracker.css",
+		"/C/Users/reybango/Dropbox/Nettuts/Cross-browser Testing Course/Cross-Platform Browser Testing Course Outline.md",
+		"/C/Users/reybango/Downloads/Web Development/JavaScript/Ember/starter-kit-master/TODO.txt",
+		"/C/Users/reybango/Downloads/Web Development/JavaScript/Ember/starter-kit-master/index.html",
+		"/C/Users/reybango/Development/Hold/min.css",
+		"/C/Users/reybango/Development/4ormat/rey.css",
+		"/C/Users/reybango/Dropbox/Nettuts/Interview with Ember Team/Ember Team Interview.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Interview with Ember Team/Ember Team Interview.md",
+		"/C/Users/reybango/Dropbox/Nettuts/Interview with Ember Team/Ember Team Interview.mdown",
+		"/C/Users/reybango/Dropbox/Nettuts/Dave Methvin/Interview with Dave Methvin.html",
+		"/C/Users/reybango/Dropbox/Nettuts/Dave Methvin/Interview with Dave Methvin.md",
+		"/C/Users/reybango/Documents/Work Docs/Bitlocker/Bitlocker Key for My Passport/BitLocker Recovery Key My Passport 8E456113-61F5-4120-B683-3CE689AE6BDF.txt",
+		"/C/Users/reybango/Development/emberlearning/js/models.js",
+		"/C/Users/reybango/Documents/Nettuts/JavaScript Reading.html",
+		"/C/Users/reybango/Documents/Nettuts/JavaScript Reading.md",
+		"/C/Users/reybango/Development/emberlearning/css/app.css",
+		"/C/Users/reybango/Development/emberlearning/css/foundation.css",
+		"/C/Users/reybango/Development/emberlearning/js/libs/ember.js",
+		"/C/Users/reybango/Downloads/Tutorials/Ember/Peepcode/peepcode-081-emberjs-code/peepcode-ember-starter-app/js/app.js",
+		"/C/Users/reybango/Downloads/Tutorials/Ember/Peepcode/peepcode-081-emberjs-code/peepcode-ember-final/js/app.js",
+		"/C/Users/reybango/Downloads/Tutorials/Ember/Peepcode/peepcode-081-emberjs-code/peepcode-ember-final/index.html",
+		"/C/Users/reybango/Development/emberlearning/emberlearn.sublime-project",
+		"/C/Users/reybango/Development/emberlearning/ember.sublime-project",
+		"/C/Users/reybango/Documents/Work Docs/IE/Xbox/IE Xbox Pitch",
+		"/C/Users/reybango/Development/emberlearning/ember.sublime-workspace",
+		"/C/Users/reybango/Downloads/Tutorials/Ember/Peepcode/peepcode-081-emberjs-code/peepcode-ember-starter-app/index.html",
+		"/C/wamp/bin/apache/apache2.4.2/conf/extra/httpd-vhosts.conf",
+		"/C/Users/reybango/Documents/Nettuts/Web Debugging Proxies.html",
+		"/C/Users/reybango/Downloads/Tutorials/Ember/Ember Notes.txt",
+		"/C/Users/reybango/Documents/Nettuts/Ember/Ember Notes",
+		"/C/Users/reybango/Development/modern.ie/jquery.flyweightcustomselect.js",
+		"/C/Users/reybango/Desktop/-200-SESSION_5.js",
+		"/C/Users/reybango/Documents/Nettuts/Testing IE.html",
+		"/C/Users/reybango/Documents/Nettuts/Web Debugging Proxies.md",
+		"/C/Users/reybango/Documents/Hold/Testing IE.html",
+		"/C/Users/reybango/Documents/Hold/Testing IE.md",
+		"/C/Users/reybango/Downloads/Nettuts/Screencasts/Developer-Screencasting-Assets/Tutorials/readme.txt",
+		"/C/Users/reybango/Development/viewport/viewport.html",
+		"/C/Users/reybango/Downloads/Web Development/JavaScript/jQuery/Library/1.8.3/jquery-1.8.3.js",
+		"/C/Users/reybango/Development/whitehouse/index.html",
+		"/C/Users/reybango/Documents/Personal/Nettuts/F12 Tools/A Peek at Internet Explorer's Developer Tools.html",
+		"/C/Users/reybango/Documents/Personal/Nettuts/F12 Tools/A Peek at Internet Explorer's Developer Tools.md",
+		"/C/Users/reybango/Development/viewport/index.html",
+		"/C/Users/reybango/Development/viewport/viewport2.html",
+		"/C/Users/reybango/Documents/Personal/Nettuts/VS 2012 with Web Essentials.html",
+		"/C/Users/reybango/Development/whitehouse/jscorerey.js",
+		"/C/Users/reybango/Development/viewport/para.html",
+		"/C/Users/reybango/AppData/Local/Temp/fz3temp-1/para.html",
+		"/C/Users/reybango/Documents/Work Docs/Tim Kadlec/ie10-rwd-sequelmd.md",
+		"/C/Users/reybango/Development/viewport/style.css",
+		"/C/Users/reybango/Downloads/PC & Web Tools/Camtasia Studio/license.txt",
+		"/C/Users/reybango/Development/Karaoke/index.html",
+		"/C/Users/reybango/Development/Pinned Facebook/index.html",
+		"/C/Users/reybango/AppData/Local/Apps/2.0/47QX3D3T.DYD/ZRDGK93Y.NWC/live...exe_0000000000000000_0000.0007_none_253b15577f4b77bf/LiveReload.exe.config",
+		"/C/Users/reybango/AppData/Local/Apps/2.0/47QX3D3T.DYD/ZRDGK93Y.NWC/live..tion_0000000000000000_0000.0007_b08d6aa5c8e77085/LiveReload.exe.cdf-ms",
+		"/C/Users/reybango/AppData/Local/Apps/2.0/47QX3D3T.DYD/ZRDGK93Y.NWC/live..tion_0000000000000000_0000.0007_b08d6aa5c8e77085/LiveReload.exe.manifest",
+		"/C/Users/reybango/AppData/Local/Apps/2.0/47QX3D3T.DYD/ZRDGK93Y.NWC/live..tion_0000000000000000_0000.0007_b08d6aa5c8e77085/LiveReload.manifest",
+		"/C/Users/reybango/AppData/Local/Apps/2.0/47QX3D3T.DYD/ZRDGK93Y.NWC/live..tion_0000000000000000_0000.0007_b08d6aa5c8e77085/LiveReload.exe.config",
+		"/C/Users/reybango/AppData/Local/Apps/2.0/47QX3D3T.DYD/ZRDGK93Y.NWC/live..tion_0000000000000000_0000.0007_b08d6aa5c8e77085/fastJSON.cdf-ms",
+		"/C/Users/reybango/AppData/Local/Apps/2.0/47QX3D3T.DYD/ZRDGK93Y.NWC/live..tion_0000000000000000_0000.0007_b08d6aa5c8e77085/fastJSON.manifest",
+		"/C/Users/reybango/AppData/Local/LiveReload/Bundled/backend/package.json",
+		"/C/Users/reybango/Development/Testbed/uaxbox.html",
+		"/C/Users/reybango/Downloads/Microsoft/Visual Studio 2012/ISO/VS Product Key.txt",
+		"/C/Users/reybango/Documents/Work Docs/Twitter/3rd outreach.msg",
+		"/C/Users/reybango/AppData/Local/Temp/fz3temp-1/application.cfm",
+		"/C/Users/reybango/Documents/Work Docs/Conference and Events/BUILD 2012/Build 2012 Presentation Notes - MS redesign.txt",
+		"/C/Users/reybango/Documents/Personal/ATT/ATT - Cell Service Credit for Data"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user-",
+			"request.",
+			"headerce",
+			"if you ",
+			"’",
+			"”",
+			"“",
+			"’",
+			"d3.selectAll(a).style(\"",
+			".container",
+			".visualization",
+			"visualization",
+			"’",
+			"&#39;",
+			"src='/",
+			"’",
+			"”",
+			"“",
+			"”",
+			"“",
+			"’",
+			"\n",
+			"-web",
+			"allPages",
+			"allContributors",
+			"‘",
+			"’",
+			"'",
+			"“",
+			"”",
+			"“",
+			"’",
+			"<",
+			">",
+			"<",
+			"”",
+			"“",
+			"’",
+			"iframe",
+			"rss-sectionulli",
+			"#rss-sectionulli",
+			"#rss-sectionulli ",
+			"#rss-sectionulli",
+			"—",
+			"&#39;",
+			"”",
+			"“",
+			"’",
+			"	\n",
+			"clickEve",
+			"”",
+			"“",
+			"’",
+			"”",
+			"“",
+			"javascript de",
+			"“",
+			"’",
+			">",
+			"<",
+			"-webkit",
+			"www",
+			"-webkit",
+			"virtual",
+			"vhos",
+			"ctrl+k"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"application.",
+			"'",
+			"\"",
+			"'",
+			"src='",
+			"'src='",
+			"'",
+			"\"",
+			"'",
+			"allItems",
+			"allPages",
+			"'",
+			"\"",
+			"'",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"\"",
+			"'",
+			"-",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"&gt;",
+			"&lt;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "twofactor.cfm",
+					"settings":
+					{
+						"buffer_size": 2088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								711,
+								711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gettoken.cfm",
+					"settings":
+					{
+						"buffer_size": 2108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1720,
+								1720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 603.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sendsms.cfm",
+					"settings":
+					{
+						"buffer_size": 468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ajaxystuff.js",
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true
+}
